@@ -1,3 +1,4 @@
+// Michelle Pohl
 public class ZeugnisSchreiber {
 
     public static void schreiben(Schueler schueler) {

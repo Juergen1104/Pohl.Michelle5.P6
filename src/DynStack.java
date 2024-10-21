@@ -1,3 +1,4 @@
+// Michelle Pohl
 public class DynStack extends DynSequence {
 
     // b) Methode push

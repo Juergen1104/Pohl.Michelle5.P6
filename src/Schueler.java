@@ -1,3 +1,4 @@
+// Michelle Pohl
 import java.util.Scanner;
 
 public class Schueler {
